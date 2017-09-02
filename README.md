@@ -3,4 +3,4 @@
 <p>app_door_webrtc=0</p>
 <p>@#$%_m_11</p>
 <p>app_hk.cic.demointegrationapp=0</p>
-<p>com.cily.utils.t_webrtc=0</p>
+<p>com.cily.utils.t_webrtc=1</p>
