@@ -4,4 +4,4 @@
 <p>@#$%_m_11</p>
 <p>app_hk.cic.demointegrationapp=0</p>
 <p>com.cily.utils.t_webrtc=0</p>
-<p>app_com.cily.wl=1</p>
+<p>app_com.cily.wl=0</p>
